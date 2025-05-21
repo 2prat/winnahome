@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/btc-stolen-by-hypnosis",
+      "destination": "https://cook1art.vercel.app/"
+    }
+  ]
+}
