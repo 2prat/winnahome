@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/btc-stolen-by-hypnosis",
-      "destination": "https://cook1art.vercel.app/"
+      "source": "/family-named-after-btc-seedphrase",
+      "destination": "https://winnart.vercel.app/"
     }
   ]
 }
